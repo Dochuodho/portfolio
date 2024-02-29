@@ -10,19 +10,19 @@
 
 .bg {
     position: absolute;
-    top: -4rem;
+    top: -2rem;
     right: 0;
     z-index: -1;
     object-fit: cover;
-    height: 85vh;
+    height: 100vh;
     padding: 3rem;
 }
 
 .introContent {
-    height: 70vh;
+    height: 100vh;
     width: 100vw;
     padding: 2rem;
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: 700;
     display: flex;
     flex-direction: column;
